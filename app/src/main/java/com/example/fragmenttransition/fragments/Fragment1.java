@@ -126,7 +126,7 @@ public class Fragment1 extends Fragment implements View.OnClickListener {
             case R.id.glide:
                 ((MainActivity) getActivity()).addFragmentWithAnimation(10);
                 break;
-         
+
             case R.id.stack:
                 ((MainActivity) getActivity()).addFragmentWithAnimation(12);
                 break;
